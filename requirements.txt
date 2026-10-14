@@ -1,0 +1,5 @@
+customtkinter
+pyotp
+pyperclip
+pystray
+pillow

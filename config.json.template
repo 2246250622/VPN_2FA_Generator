@@ -1,0 +1,25 @@
+{
+  "accounts": {
+    "T1": {
+      "secret": "",
+      "prefix": ""
+    },
+    "P1": {
+      "secret": "",
+      "prefix": ""
+    },
+    "P2": {
+      "secret": "",
+      "prefix": ""
+    },
+    "CyberArk": {
+      "secret": "",
+      "prefix": ""
+    },
+    "Email": {
+      "secret": "",
+      "prefix": ""
+    }
+  },
+  "appearance_mode": "dark"
+}

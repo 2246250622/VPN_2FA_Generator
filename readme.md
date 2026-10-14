@@ -1,35 +1,3 @@
-已建立 `config.json.template`，並更新 README。
-
-### config.json.template
-
-```json
-{
-  "accounts": {
-    "T1": {
-      "secret": "",
-      "prefix": ""
-    },
-    "P1": {
-      "secret": "",
-      "prefix": ""
-    },
-    "P2": {
-      "secret": "",
-      "prefix": ""
-    },
-    "CyberArk": {
-      "secret": "",
-      "prefix": ""
-    },
-    "Email": {
-      "secret": "",
-      "prefix": ""
-    }
-  },
-  "appearance_mode": "dark"
-}
-```
-
 ### README（已更新）
 
 # 2FA Dashboard 使用說明

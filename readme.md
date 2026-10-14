@@ -1,5 +1,3 @@
-### README（已更新）
-
 # 2FA Dashboard 使用說明
 
 ## 檔案說明
